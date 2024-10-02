@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAPQ2tj50cA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proje\\source\\repos\\WebAPIfirst\\WebAPIfirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proje\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.1\\swashbuckle.aspnetcore.swagger.6.8.1.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.1\\swashbuckle.aspnetcore.swaggergen.6.8.1.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.1\\swashbuckle.aspnetcore.swaggerui.6.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

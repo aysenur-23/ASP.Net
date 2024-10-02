@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIfirst", "WebAPIfirst.csproj", "{457733E5-D672-4897-B189-D9721F2986BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{2A3F8F89-A436-4C40-B69E-D3D643E54427}"
+	ProjectSection(SolutionItems) = preProject
+		HomeController.cs = HomeController.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{ADBAEBF2-4076-49AB-AC99-70A44A072F99}"
+	ProjectSection(SolutionItems) = preProject
+		ResponseModel.cs = ResponseModel.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457733E5-D672-4897-B189-D9721F2986BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457733E5-D672-4897-B189-D9721F2986BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457733E5-D672-4897-B189-D9721F2986BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457733E5-D672-4897-B189-D9721F2986BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D12C59-C2C2-4938-B1E2-71D8ADC4FC85}
+	EndGlobalSection
+EndGlobal
